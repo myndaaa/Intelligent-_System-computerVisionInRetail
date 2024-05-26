@@ -1,0 +1,9 @@
+path: C:\Users\bheja\OneDrive\Desktop\intelligent_system\Dataset_5
+train: train
+val: val
+test:  test
+
+nc: 1
+
+names:
+  0: outofstock
